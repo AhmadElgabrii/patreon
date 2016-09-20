@@ -1,0 +1,49 @@
+[{
+  "name":"Ahmed Magdy",
+  "patrons":500,
+  "MoneyEachMonth":272.69,
+  "FundedNextGoal":0.27,
+  "DateOfRegisteration":"5/7/2016",
+  "Art":[{
+            "photography":[{}],
+            "drawingAndPaintings":[{}],
+            "comics":[{}]
+    }]
+},
+{
+  "name":"Amr Draz",
+  "patrons":254,
+  "MoneyEachMonth":1869.36,
+  "FundedNextGoal":0.93,
+  "DateOfRegisteration":"4/3/2016",
+  "Art":[{
+            "photography":[{}],
+            "drawingAndPaintings":[{}],
+            "comics":[{}]
+    }]
+},
+{
+  "name":"John Matt",
+  "patrons":370,
+  "MoneyEachMonth":350.5,
+  "FundedNextGoal":0.52,
+  "DateOfRegisteration":"2/1/2015",
+  "Art":[{
+            "photography":[{}],
+            "drawingAndPaintings":[{}],
+            "comics":[{}]
+    }]
+},
+{
+  "name":"James Ross",
+  "patrons":560,
+  "MoneyEachMonth":800,
+  "FundedNextGoal":0.74,
+  "DateOfRegisteration":"2/6/2015",
+  "Art":[{
+            "photography":[{}],
+            "drawingAndPaintings":[{}],
+            "comics":[{}]
+    }]
+}
+]
